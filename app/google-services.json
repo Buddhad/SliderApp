@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364035243098",
+    "project_id": "slideraapp",
+    "storage_bucket": "slideraapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364035243098:android:ef43a1afb7c067a4c4ac63",
+        "android_client_info": {
+          "package_name": "com.example.sliderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364035243098-bck632tekohtud7j48057qc8gagg4m9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADahl2kw5QA-yg1WFfLbCG1aEo-n5uHUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364035243098-bck632tekohtud7j48057qc8gagg4m9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
